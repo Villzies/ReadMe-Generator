@@ -1,7 +1,7 @@
 # ReadMe-Generator
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-##Description 
+## Description 
 Have you found yourself spending way too much time creating ReadMe files? If so, you've come to the right place. I have created tihs simple ReadMe generator that utilizes the Inquirer package for Node.js to make writing a quality ReadMe easy.
 
 ## Table of Contents
