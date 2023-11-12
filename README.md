@@ -6,17 +6,16 @@ Have you found yourself spending way too much time creating ReadMe files? If so,
 
 ## Table of Contents
 
-* [Installation] (#installation)
-* [Usage] (#usage)
-* [Demo] (#demo)
-* [License] (#license)
-* [Credits] (#credits)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Demo](#demo)
+* [License](#license)
 
 ## Installation
 
 In the command line, type 'npm install inquirer' to get started.
 
-##Usage
+## Usage
 
 1. Clone this repository
 2. npm install inquirer
@@ -25,9 +24,9 @@ In the command line, type 'npm install inquirer' to get started.
 ![image](https://github.com/Villzies/ReadMe-Generator/assets/135443479/c73380e0-7760-4d46-8f98-f06463958c20)
 5. Get a generated ReadMe
 
-##Demo
+## Demo
 https://youtu.be/dQw4w9WgXcQ?si=dyHyjSJqXiwCX_Kc
 
-##License 
+## License 
 
-MIT License
+[MIT license](https://github.com/jconeff/README_generator/blob/main/LICENSE)
