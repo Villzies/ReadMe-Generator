@@ -17,11 +17,11 @@ In the command line, type 'npm install inquirer' to get started.
 
 ## Usage
 
-1. Clone this repository
+1. Clone this repository ![image](https://github.com/Villzies/ReadMe-Generator/assets/135443479/bf57b6ab-46d2-4574-9e71-06dda2b7120f)
+
 2. npm install inquirer
 3. node index.js
-4. Answer the prompts
-![image](https://github.com/Villzies/ReadMe-Generator/assets/135443479/c73380e0-7760-4d46-8f98-f06463958c20)
+4. Answer the prompts ![image](https://github.com/Villzies/ReadMe-Generator/assets/135443479/c73380e0-7760-4d46-8f98-f06463958c20)
 5. Get a generated ReadMe
 
 ## Demo
