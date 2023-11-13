@@ -1,10 +1,9 @@
 // TODO: Include packages needed for this application
-const inquirer = require('inquirer');
+const inquirer = require('inquirer')
 const fs = require('fs');
 
 // TODO: Create an array of questions for user input
-const questions = () => {
-return inquirer.prompt([
+inquirer.prompt([
 
     {
         type: 'input',
@@ -98,7 +97,7 @@ return inquirer.prompt([
         console.log("Success!")
     });
 });
-}
+
 
 //Function to initialize app
 function init() {
