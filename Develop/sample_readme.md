@@ -10,7 +10,7 @@
 
 ## Installation
 
-In the command line, type 'npm install inquirer' to get started.
+
 
 ## Usage
 
